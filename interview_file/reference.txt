@@ -1,0 +1,8 @@
+python: https://github.com/learning-zone/python-interview-questions
+  
+
+sql:-  https://github.com/learning-zone/sql-interview-questions
+
+
+power bi : https://www.edureka.co/blog/interview-questions/power-bi-interview-questions/
+	
