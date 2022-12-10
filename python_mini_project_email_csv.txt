@@ -1,0 +1,4 @@
+https://github.com/Python-World/python-mini-projects/blob/master/projects/Store_emails_in_csv/store_emails.py
+
+
+store email in csv and do the sentiment analysis of that.

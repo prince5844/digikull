@@ -1,0 +1,20 @@
+Python
+   --> Do you know fibonacci, prime number, Factorial program in python?
+   --> Do you know file handling in python?
+   -->Data structure list ,tuple, dict, set in python
+Sql
+   --> 
+   -->
+   
+
+https://github.com/GopiSumanth/SQL
+https://www.sql-practice.com/
+https://github.com/kiwidamien/SQL_practice
+https://github.com/royalosyin/Practice-SQL-with-SQLite-and-Jupyter-Notebook
+https://github.com/mdh266/SQL-Practice
+
+
+3 weeks
+--->
+Python
+https://pynative.com/python-data-structure-exercise-for-beginners/

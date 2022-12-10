@@ -1,0 +1,98 @@
+Question
+
+1.7.2 Write a program that prompts for a file name, then opens that file and reads through the file, looking for lines of the form:
+
+X-DSPAM-Confidence:    0.8475
+
+Count these lines and extract the floating point values from each of the lines and compute the average of those values and produce an output as shown below. Do not use the sum() function or a variable named sum in your solution.
+
+You can download the sample data at http://www.py4e.com/code3/mbox-short.txt when you are testing below enter mbox-short.txt as the file name.
+
+
+-------------------------------------------------------
+
+1.10.2 Write a program to read through the mbox-short.txt and figure out the distribution by hour of the day for each of the messages. You can pull the hour out from the 'From ' line by finding the time and then splitting the string a second time using a colon.
+
+From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
+
+Once you have accumulated the counts for each hour, print out the counts, sorted by hour .
+
+------------------------------------------------------------------------------------------------------------------------
+Exercise 1: Reverse a list in Python
+Exercise 2: Concatenate two lists index-wise
+Exercise 3: Turn every item of a list into its square
+Exercise 4: Concatenate two lists in the following order
+Exercise 5: Iterate both lists simultaneously
+Exercise 6: Remove empty strings from the list of strings
+Exercise 7: Add new item to list after a specified item
+Exercise 8: Extend nested list by adding the sublist
+Exercise 9: Replace list’s item with new value if found
+Exercise 10: Remove all occurrences of a specific item from a list.
+
+---------------------------------------------------------------------------------------------------------------
+Loop Question:
+Exercise 1: Print First 10 natural numbers using while loop
+Exercise 2: Print the following pattern
+Exercise 3: Calculate the sum of all numbers from 1 to a given number
+Exercise 4: Write a program to print multiplication table of a given number
+Exercise 5: Display numbers from a list using loop
+Exercise 6: Count the total number of digits in a number
+Exercise 7: Print the following pattern
+Exercise 8: Print list in reverse order using a loop
+Exercise 9: Display numbers from -10 to -1 using for loop
+Exercise 10: Use else block to display a message “Done” after successful execution of for loop
+Exercise 11: Write a program to display all prime numbers within a range
+Exercise 12: Display Fibonacci series up to 10 terms
+Exercise 13: Find the factorial of a given number
+Exercise 14: Reverse a given integer number
+Exercise 15: Use a loop to display elements from a given list present at odd index positions
+Exercise 16: Calculate the cube of all numbers from 1 to a given number
+Exercise 17: Find the sum of the series upto n terms
+Exercise 18: Print the following pattern
+
+----------------------------------------------------------------------------------------------------------
+Exercise 1: Create a function in Python
+Exercise 2: Create a function with variable length of arguments
+Exercise 3: Return multiple values from a function
+Exercise 4: Create a function with default argument
+Exercise 5: Create an inner function to calculate the addition in the following way
+Exercise 6: Create a recursive function
+Exercise 7: Assign a different name to function and call it through the new name
+Exercise 8: Generate a Python list of all the even numbers between 4 to 30
+Exercise 9: Find the largest item from a given list
+------------------------------------------------------------------------------------------------------
+Exercise 1: Convert two lists into a dictionary
+Exercise 2: Merge two Python dictionaries into one
+Exercise 3: Print the value of key ‘history’ from the below dict
+Exercise 4: Initialize dictionary with default values
+Exercise 5: Create a dictionary by extracting the keys from a given dictionary
+Exercise 6: Delete a list of keys from a dictionary
+Exercise 7: Check if a value exists in a dictionary
+Exercise 8: Rename key of a dictionary
+Exercise 9: Get the key of a minimum value from the following dictionary
+Exercise 10: Change value of a key in a nested dictionary
+-----------------------------------------------------------------------------------------------------------
+Exercise 1: Generate 3 random integers between 100 and 999 which is divisible by 5
+Exercise 2: Random Lottery Pick. Generate 100 random lottery tickets and pick two lucky tickets from it as a winner.
+Exercise 3: Generate 6 digit random secure OTP
+----------------------------------------------------------------------------------------------
+Exercise 1A: Create a string made of the first, middle and last character
+Exercise 1B: Create a string made of the middle three characters
+Exercise 2: Append new string in the middle of a given string
+Exercise 3: Create a new string made of the first, middle, and last characters of each input string
+Exercise 4: Arrange string characters such that lowercase letters should come first
+Exercise 5: Count all letters, digits, and special symbols from a given string
+Exercise 6: Create a mixed String using the following rules
+Exercise 7: String characters balance Test
+Exercise 8: Find all occurrences of a substring in a given string by ignoring the case
+Exercise 9: Calculate the sum and average of the digits present in a string
+Exercise 10: Write a program to count occurrences of all characters within a string
+Exercise 11: Reverse a given string
+Exercise 12: Find the last position of a given substring
+Exercise 13: Split a string on hyphens
+Exercise 14: Remove empty strings from a list of strings
+Exercise 15: Remove special symbols / punctuation from a string
+Exercise 16: Removal all characters from a string except integers
+Exercise 17: Find words with both alphabets and numbers
+Exercise 18: Replace each special symbol with # in the following string
+

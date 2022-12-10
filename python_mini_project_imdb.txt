@@ -1,0 +1,4 @@
+https://github.com/Python-World/python-mini-projects/blob/master/projects/Find_imdb_rating/find_IMDb_rating.py
+
+
+fetch the data from imdb and then perform various analysis on it 
