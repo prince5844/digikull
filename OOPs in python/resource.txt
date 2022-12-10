@@ -1,0 +1,5 @@
+https://realpython.com/python3-object-oriented-programming/
+https://pynative.com/python/object-oriented-programming/
+
+
+https://www.javatpoint.com/python-oops-concepts
